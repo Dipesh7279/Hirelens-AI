@@ -1,0 +1,17 @@
+**/dist/
+**/build/
+**/coverage/
+**/.env
+**/.env.*
+!**/.env.example
+**/__pycache__/
+**/.pytest_cache/
+**/.venv/
+**/.data/
+*.log
+npm-debug.log*
+*.zip
+Thumbs.db
+.DS_Store
+/.h.env/
+node_modules/
